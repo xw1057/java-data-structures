@@ -2,6 +2,7 @@
 
 This project implements fundamental data structures from scratch in Java, including:
 
+- Binary Search Tree
 - AVL Tree with rotation-based rebalancing
 - Custom HashMap with collision handling and dynamic resizing
 - Graph traversal algorithms (BFS and DFS)
