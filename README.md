@@ -1,15 +1,17 @@
-# Java Data Structures Implementation
+# Data Structures and Algorithms Implementations in Java and Python
 
-This project implements fundamental data structures from scratch in Java, including:
+This repository contains foundational implementations of core data structures and algorithms in both Java and Python.
 
+## Included implementations
 - Binary Search Tree
 - AVL Tree with rotation-based rebalancing
 - Custom HashMap with collision handling and dynamic resizing
-- Graph traversal algorithms (BFS and DFS)
+- Graph traversals (BFS and DFS)
 - Sorting algorithms
 
-Each implementation includes algorithmic complexity analysis (Big-O) and structured validation testing.
+## Project structure
+- `java/`: Java implementations and a demo entry point
+- `python/`: Supplemental Python implementations for additional practice
 
 ## Objective
-
-This project was developed to strengthen foundational understanding of data structures and algorithmic thinking in preparation for rigorous graduate-level computer science coursework.
+This project was developed to strengthen my foundation in data structures, algorithms, and complexity analysis in preparation for graduate-level computer science coursework.
